@@ -1,0 +1,144 @@
+/* :root {
+  --dark: rgb(114, 107, 107);
+  --light:  rgb(189, 178, 178);
+  --backgroundColor: rgb(82, 82, 134);
+  --border: 3px;
+} 
+
+* {
+  box-sizing: border-box;
+}
+header{
+    text-align: center;
+    margin: 10px;
+    padding: 45px;
+    background-color: var(--light);
+}
+
+ul {
+  list-style-type: none;
+  font-weight: bold;
+
+}
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dark);
+}
+
+.bilboard {
+  height: 420px;
+  max-width: 99%;
+  background-image: url(https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260) ;
+}
+
+.bilboard_header {
+  font-size: 60px;
+}
+
+.about_me {
+  text-align: center;
+  border-style: solid;
+  
+}
+
+.about_me img {
+    max-width: 95%;
+}
+
+p {
+  display: flex;
+  text-align: center;
+  font-weight: 400;
+  
+}
+ul {
+  text-align: center;
+}
+
+h2 {
+  font-size: larger;
+}
+
+h3 {
+  display: block;
+  background-color: var(--light);
+}
+
+.cardStack {
+  text-align: center;
+  padding: 10px;
+  display: block;
+  /* align-items:  */
+  /* justify-content: center;
+}
+
+.card {
+  padding: 10px;
+  border-style: solid;
+  margin: 2%;
+  text-align: center;
+  background-color: var(--light);
+  font-family: 'Times New Roman', Times, serif;
+  height: 204px;
+}
+
+div {
+  text-align: center;
+}
+
+a {
+  background-color: var(--light);
+  padding: 4px;
+  font-weight: bolder;
+  font-size: 26px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.code {
+  background-image: url(./images/work1_card.jpg);
+  background-size: cover;
+  align-items: center;
+}
+
+.a {
+  background-image: url(./images/A.JPG);
+  background-size: cover;
+}
+
+.city {
+  background-image: url(./images/City.png);
+  background-size: cover;
+}
+
+.hash {
+  background-image: url(./images/work1_card.jpg);
+  background-size: cover;
+}
+
+.cardBox {
+  background-color: var(--light);
+}
+
+footer {
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .cardStack {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .card {
+    flex: 1 1 45%;
+  }
+  .focus {
+    flex: 2 1 100%;
+  }
+  header {
+    display: flex;
+  }
+} */ 
