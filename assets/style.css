@@ -379,6 +379,10 @@ div {
   text-align: center;
 }
 
+.paper {
+  color: #007bff;
+}
+
 /* a {
   background-color: var(--light);
   padding: 4px;
